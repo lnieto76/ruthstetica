@@ -18,10 +18,10 @@
 	</div>
 	<div id="menu">
 		<ul>
-			<li ><a href="index.html" accesskey="1" title="">Inicio</a></li>
-			<li ><a href="servicios.html" accesskey="2" title="">Servicios</a></li>
-			<li><a href="escuela.html" accesskey="3" title="">Escuela de cosmetologia</a></li>
-			<li class="current_page_item"><a href="contactanos.html" accesskey="5" title="">Contactanos</a></li>
+			<li ><a href="index.php" accesskey="1" title="">Inicio</a></li>
+			<li ><a href="servicios.php" accesskey="2" title="">Servicios</a></li>
+			<li><a href="escuela.php" accesskey="3" title="">Escuela de cosmetologia</a></li>
+			<li class="current_page_item"><a href="contactanos.php" accesskey="5" title="">Contactanos</a></li>
 		</ul>
 	</div>
 </div>
